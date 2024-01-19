@@ -1,0 +1,6 @@
+python programming
+neural newtwork python 
+ Word_Count:python : 2
+programming : 1
+neural : 1
+newtwork : 1
